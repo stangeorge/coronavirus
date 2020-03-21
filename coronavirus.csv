@@ -1,5 +1,18 @@
-County,Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered,Total Persons Tested
-,Illinois,USA,3/21/2020 00:00,753,6,,6247
-Cook,Illinois,USA,3/21/2020 00:00,548,,,
-DuPage,Illinois,USA,3/21/2020 00:00,65,,,
-Lake,Illinois,USA,3/21/2020 00:00,63,,,
+County,Province/State,Division,Region,Country/Region,Region,Division,Last Update,Confirmed,Deaths,Total Persons Tested,Negative,Recovered
+,Illinois,East North Central,Midwest,USA,3/21/2020 00:00,753,6,6247,,
+Cook,Illinois,East North Central,Midwest,USA,3/21/2020 00:00,548,,,,
+DuPage,Illinois,East North Central,Midwest,USA,3/21/2020 00:00,65,,,,
+Lake,Illinois,East North Central,Midwest,USA,3/21/2020 00:00,63,,,,
+,Indiana,East North Central,Midwest,USA,3/21/2020 00:00,126,4,833,,
+Marion,Indiana,East North Central,Midwest,USA,3/21/2020 00:00,46,,,,
+,Michigan,East North Central,Midwest,USA,3/21/2020 00:00,238,2,,,
+Detroit City,Michigan,East North Central,Midwest,USA,3/21/2020 00:00,99,1,,,
+Oakland,Michigan,East North Central,Midwest,USA,3/21/2020 00:00,45,1,,,
+Wayne,Michigan,East North Central,Midwest,USA,3/21/2020 00:00,34,,,,
+,Ohio,East North Central,Midwest,USA,3/21/2020 00:00,247,3,,,
+Cuyahoga,Ohio,East North Central,Midwest,USA,3/21/2020 00:00,92,,,,
+Franklin,Ohio,East North Central,Midwest,USA,3/21/2020 00:00,21,,,,
+,Wisconsin,East North Central,Midwest,USA,3/21/2020 00:00,281,4,,4628,
+Dane,Wisconsin,East North Central,Midwest,USA,3/21/2020 00:00,126,,,,
+Milwaukee,Wisconsin,East North Central,Midwest,USA,3/21/2020 00:00,49,,,,
+Waukesha,Wisconsin,East North Central,Midwest,USA,3/21/2020 00:00,20,,,,
