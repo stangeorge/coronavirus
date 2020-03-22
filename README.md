@@ -1,6 +1,7 @@
 This raw data tracks US areas reporting 20+ coronavirus cases or 1+ deaths.
 
 ### Field description
+* Largest City: So it is easier to search for cities such as Chicago.
 * County/Parish/Region: US - County name (e.g. "Cook" county in Illinois, "Orleans" parish in Louisiana, "Anchorage" Economic Region in Alaska)
 * Province/State: China - province name; US/Canada/Australia/ - city name, state/province name; Others - name of the event (e.g., "Diamond Princess" cruise ship); other countries - blank.
 * Division: The United States Census Bureau defines four statistical regions, with nine divisions (e.g. New England) See: https://en.wikipedia.org/wiki/List_of_regions_of_the_United_States#Census_Bureau-designated_regions_and_divisions
@@ -19,7 +20,7 @@ This raw data tracks US areas reporting 20+ coronavirus cases or 1+ deaths.
 * US CDC: https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/cases-in-us.html
 * Illinois Department of Public Health: http://www.dph.illinois.gov/topics-services/diseases-and-conditions/diseases-a-z-list/coronavirus
 * State of Indiana: https://www.in.gov/coronavirus/2393.htm
-* State of Michigan: https://www.michigan.gov/coronavirus
+* State of Michigan: https://www.michigan.gov/coronavirus (e.g. https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html)
 * Ohio Department of Health: https://coronavirus.ohio.gov/wps/portal/gov/covid-19/
 * Wisconsin Department of Health Services:https://www.dhs.wisconsin.gov/outbreaks/index.htm
 * Iowa Department of Public Health: https://idph.iowa.gov/Emerging-Health-Issues/Novel-Coronavirus
@@ -36,7 +37,7 @@ This raw data tracks US areas reporting 20+ coronavirus cases or 1+ deaths.
 * Rhode Island Department of Health https://health.ri.gov/data/covid-19/
 * Vermont Department of Health: https://www.healthvermont.gov/response/infectious-disease/2019-novel-coronavirus
 * New Jersey Department of Health: https://covid19.nj.gov/
-* New York Department of Health: https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases
+* New York Department of Health (* I cannot find the number of deaths, so this is from John's Hopkins - link in "More Data" section below): https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases
 * Pennsylvania Department of Health: https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx
 * Delaware Division of Public Health: https://coronavirus.delaware.gov/
 * Florida Health: https://floridahealthcovid19.gov/
