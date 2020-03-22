@@ -3,10 +3,10 @@ This raw data tracks US areas reporting 20+ coronavirus cases or 1+ deaths.
 ### Field description
 * Largest City: So it is easier to search for cities such as Chicago.
 * County: US - County name (e.g. "Cook" county in Illinois, "Orleans" parish in Louisiana, "Anchorage" Economic Region in Alaska)
-* Province/State: China - province name; US/Canada/Australia/ - city name, state/province name; Others - name of the event (e.g., "Diamond Princess" cruise ship); other countries - blank.
+* State: China - province name; US/Canada/Australia/ - city name, state/province name; Others - name of the event (e.g., "Diamond Princess" cruise ship); other countries - blank.
 * Division: The United States Census Bureau defines four statistical regions, with nine divisions (e.g. New England) See: https://en.wikipedia.org/wiki/List_of_regions_of_the_United_States#Census_Bureau-designated_regions_and_divisions
 * Region: The United States Census Bureau defines four statistical regions (Northeast, Midwest, South, West).
-* Country/Region: country/region name conforming to WHO.
+* Country: country/region name conforming to WHO.
 * Last Update: MM/DD/YYYY HH:mm  (24 hour format, in UTC).
 * Confirmed: the number of confirmed cases.
 * Deaths: the number of deaths.
