@@ -1,5 +1,7 @@
+This raw data tracks areas reporting 20+ coronavirus cases or 1+ deaths.
+
 ### Field description
-* County: US - County name (e.g. "Cook" county in Illinois)
+* County/Parish/Region: US - County name (e.g. "Cook" county in Illinois, "Orleans" parish in Louisiana, "Anchorage" Economic Region in Alaska)
 * Province/State: China - province name; US/Canada/Australia/ - city name, state/province name; Others - name of the event (e.g., "Diamond Princess" cruise ship); other countries - blank.
 * Division: The United States Census Bureau defines four statistical regions, with nine divisions (e.g. New England) See: https://en.wikipedia.org/wiki/List_of_regions_of_the_United_States#Census_Bureau-designated_regions_and_divisions
 * Region: The United States Census Bureau defines four statistical regions (Northeast, Midwest, South, West)
@@ -29,19 +31,47 @@
 * South Dakota Department of Health: https://doh.sd.gov/news/Coronavirus.aspx#SD
 * State of Connecticut: https://portal.ct.gov/Coronavirus (e.g. https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3212020.pdf?la=en)
 * Maine Division of Disease Surveillance: https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus.shtml
-* Commonwealth of Massachusetts: https://www.mass.gov/info-details/covid-19-cases-quarantine-and-monitoring
+* Commonwealth of Massachusetts: https://www.mass.gov/info-details/covid-19-cases-quarantine-and-monitoring (e.g. https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-march-21-2020/download)
+* New Hampshire Department of Health and Human Services: https://www.nh.gov/covid19/
+* Rhode Island Department of Health https://health.ri.gov/data/covid-19/
+* Vermont Department of Health: https://www.healthvermont.gov/response/infectious-disease/2019-novel-coronavirus
+* New Jersey Department of Health: https://covid19.nj.gov/
+* New York Department of Health: https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases
+* Pennsylvania Department of Health: https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx
+* Delaware Division of Public Health: https://coronavirus.delaware.gov/
+* Florida Health: https://floridahealthcovid19.gov/
+* Georgia Department of Public Health: https://dph.georgia.gov/covid-19-daily-status-report
+* Maryland Department of Health: https://coronavirus.maryland.gov/
+* North Carolina Department of Health and Human Services: https://www.ncdhhs.gov/covid-19-case-count-nc
+* South Carolina Department of Health and Environmental Control: https://www.scdhec.gov/infectious-diseases/viruses/coronavirus-disease-2019-covid-19/monitoring-testing-covid-19
+* Virginia Department of Health: http://www.vdh.virginia.gov/coronavirus/
+* Government of the District of Columbia: https://coronavirus.dc.gov/page/coronavirus-data
+* West Virginia Department of Health and Human Resources: https://dhhr.wv.gov/COVID-19/Pages/default.aspx
+* Alabama Public Health: http://alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html
+* Kentucky Department for Public Health :https://govstatus.egov.com/kycovid19
+* Mississippi State Department of Health: https://msdh.ms.gov/msdhsite/_static/14,0,420.html#Mississippi
+* Tennessee Department of Health: https://www.tn.gov/health/cedep/ncov.html
+* Arkansas Department of Health: https://www.healthy.arkansas.gov/programs-services/topics/novel-coronavirus
+* Louisiana Department of Health: http://ldh.la.gov/coronavirus/
+* Oklahoma State Department of Health https://coronavirus.health.ok.gov/
+* Texas Department of State Health Services : https://dshs.texas.gov/news/updates.shtm#coronavirus
+* California Department of Public Health: https://www.cdph.ca.gov/covid19
+* Washington Department of Health: https://www.doh.wa.gov/Emergencies/Coronavirus
+* Oregon Health Authority: https://govstatus.egov.com/OR-OHA-COVID-19
+* Alaska Department of Health and Human Services: http://www.dhss.alaska.gov/dph/Epi/id/Pages/COVID-19/monitoring.aspx
+* State of Hawaii Department of Health: https://health.hawaii.gov/docd/advisories/novel-coronavirus-2019/
+* State of Colorado: https://covid19.colorado.gov/data
+* Arizona Department of Health Services: https://www.azdhs.gov/preparedness/epidemiology-disease-control/infectious-disease-epidemiology/index.php#novel-coronavirus-home
+* Wyoming Department of Health: https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/novel-coronavirus/
+* Nevada Department of Health and Human Services (view in Chrome; had issue viewing in Firefox):https://app.powerbigov.us/view?r=eyJrIjoiMjA2ZThiOWUtM2FlNS00MGY5LWFmYjUtNmQwNTQ3Nzg5N2I2IiwidCI6ImU0YTM0MGU2LWI4OWUtNGU2OC04ZWFhLTE1NDRkMjcwMzk4MCJ9
+* State of Idaho :https://coronavirus.idaho.gov/
+* Montana Department of Public Health and Human Services: https://montana.maps.arcgis.com/apps/MapSeries/index.html?appid=7c34f3412536439491adcc2103421d4b
+* New Mexico Department of Health: https://cv.nmhealth.org/
+* Utah Department of Health: https://coronavirus.utah.gov/case-counts/
 
 ### TODO
-* Northeast
-  * New England (New Hampshire, Rhode Island, and Vermont)
-  * Mid-Atlantic (New Jersey, New York, and Pennsylvania)
-* South
-  * South Atlantic (Delaware, Florida, Georgia, Maryland, North Carolina, South Carolina, Virginia, District of Columbia, and West Virginia)
-  * East South Central (Alabama, Kentucky, Mississippi, and Tennessee)
-  * West South Central (Arkansas, Louisiana, Oklahoma, and Texas)
 * West  
-  * Mountain (Arizona, Colorado, Idaho, Montana, Nevada, New Mexico, Utah, and Wyoming)
-  * Pacific (Alaska, California, Hawaii, Oregon, and Washington)
+  * Mountain (, Utah)
 
 ### More data
 Johns Hopkins University Applied Physics Lab (JHU APL) https://github.com/CSSEGISandData/COVID-19
