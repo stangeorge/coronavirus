@@ -1,4 +1,4 @@
-This raw data tracks areas reporting 20+ coronavirus cases or 1+ deaths.
+This raw data tracks US areas reporting 20+ coronavirus cases or 1+ deaths.
 
 ### Field description
 * County/Parish/Region: US - County name (e.g. "Cook" county in Illinois, "Orleans" parish in Louisiana, "Anchorage" Economic Region in Alaska)
