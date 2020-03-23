@@ -69,10 +69,6 @@ This raw data tracks US areas reporting 20+ coronavirus cases or 1+ deaths.
 1. New Mexico Department of Health: https://cv.nmhealth.org/
 1. Utah Department of Health: https://coronavirus.utah.gov/case-counts/
 
-### TODO
-* West  
-  * Mountain (, Utah)
-
 ### More data
 * Johns Hopkins University Applied Physics Lab (JHU APL) https://github.com/CSSEGISandData/COVID-19
 * US CDC: https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/cases-in-us.html
