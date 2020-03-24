@@ -18,6 +18,7 @@ This raw data tracks US areas reporting 20+ coronavirus cases or 1+ deaths.
 
 ### Data sources
 1. Illinois Department of Public Health: http://www.dph.illinois.gov/topics-services/diseases-and-conditions/diseases-a-z-list/coronavirus
+  * County Data:http://www.dph.illinois.gov/sites/default/files/COVID19/COVID19CountyResults20200322.json
 1. State of Indiana: https://www.in.gov/coronavirus/2393.htm
 1. State of Michigan: https://www.michigan.gov/coronavirus (e.g. https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html)
 1. Ohio Department of Health: https://coronavirus.ohio.gov/wps/portal/gov/covid-19/
@@ -55,7 +56,7 @@ This raw data tracks US areas reporting 20+ coronavirus cases or 1+ deaths.
 1. Louisiana Department of Health: http://ldh.la.gov/coronavirus/
 1. Oklahoma State Department of Health https://coronavirus.health.ok.gov/
 1. Texas Department of State Health Services : https://dshs.texas.gov/news/updates.shtm#coronavirus
-1. California Department of Public Health: https://www.cdph.ca.gov/covid19
+1. California Department of Public Health: https://covid19.ca.gov/
 1. Washington Department of Health: https://www.doh.wa.gov/Emergencies/Coronavirus
 1. Oregon Health Authority: https://govstatus.egov.com/OR-OHA-COVID-19
 1. Alaska Department of Health and Human Services: http://www.dhss.alaska.gov/dph/Epi/id/Pages/COVID-19/monitoring.aspx
@@ -72,3 +73,5 @@ This raw data tracks US areas reporting 20+ coronavirus cases or 1+ deaths.
 ### More data
 * Johns Hopkins University Applied Physics Lab (JHU APL) https://github.com/CSSEGISandData/COVID-19
 * US CDC: https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/cases-in-us.html
+* https://en.wikipedia.org/wiki/List_of_airports_in_the_United_States
+* https://raw.githubusercontent.com/plotly/datasets/master/2011_february_us_airport_traffic.csv
