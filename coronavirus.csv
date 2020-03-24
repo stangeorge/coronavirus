@@ -1,464 +1,156 @@
-Largest City,County,State,Division,Region,Country,Last Update,Confirmed,Deaths,Total Persons Tested,Negative,Latitude,Longitude
-,,,,,US,3/21/2020 00:00,24002,326,,,,
-,,Illinois,East North Central,Midwest,US,3/21/2020 00:00,753,6,6247,,41.979595,-87.90446417
-Chicago,Cook,Illinois,East North Central,Midwest,US,3/21/2020 00:00,548,,,,,
-Naperville,DuPage,Illinois,East North Central,Midwest,US,3/21/2020 00:00,65,,,,,
-Waukegan,Lake,Illinois,East North Central,Midwest,US,3/21/2020 00:00,63,,,,,
-,,Indiana,East North Central,Midwest,US,3/21/2020 00:00,126,4,833,,39.71732917,-86.29438417
-Indianapolis,Marion,Indiana,East North Central,Midwest,US,3/21/2020 00:00,46,,,,,
-,,Michigan,East North Central,Midwest,US,3/21/2020 00:00,787,5,,,42.21205889,-83.34883583
-,Detroit City,Michigan,East North Central,Midwest,US,3/21/2020 00:00,248,3,,,,
-Troy,Oakland,Michigan,East North Central,Midwest,US,3/21/2020 00:00,229,1,,,,
-,Wayne,Michigan,East North Central,Midwest,US,3/21/2020 00:00,101,1,,,,
-Ann Arbor,Washtenaw,Michigan,East North Central,Midwest,US,3/21/2020 00:00,29,,,,,
-Grand Rapids,Kent,Michigan,East North Central,Midwest,US,3/21/2020 00:00,21,,,,,
-,,Ohio,East North Central,Midwest,US,3/21/2020 00:00,247,3,,,41.41089417,-81.84939667
-Cleveland,Cuyahoga,Ohio,East North Central,Midwest,US,3/21/2020 00:00,92,,,,,
-Columbus,Franklin,Ohio,East North Central,Midwest,US,3/21/2020 00:00,21,,,,,
-,,Wisconsin,East North Central,Midwest,US,3/21/2020 00:00,281,4,,4628,42.94722222,-87.89658333
-Madison,Dane,Wisconsin,East North Central,Midwest,US,3/21/2020 00:00,126,,,,,
-Milwaukee,Milwaukee,Wisconsin,East North Central,Midwest,US,3/21/2020 00:00,49,,,,,
-Waukesha,Waukesha,Wisconsin,East North Central,Midwest,US,3/21/2020 00:00,20,,,,,
-,,Iowa,West North Central,Midwest,US,3/21/2020 00:00,68,,,,,
-Iowa City,Johnson,Iowa,West North Central,Midwest,US,3/21/2020 00:00,27,,,,,
-,,Kansas,West North Central,Midwest,US,3/21/2020 00:00,55,2,,,,
-Overland Park,Johnson,Kansas,West North Central,Midwest,US,3/21/2020 00:00,25,,,,,
-,,Minnesota,West North Central,Midwest,US,3/21/2020 00:00,137,1,,,,
-Minneapolis,Hennepin,Minnesota,West North Central,Midwest,US,3/21/2020 00:00,52,,,,,
-,,Missouri,West North Central,Midwest,US,3/21/2020 00:00,73,3,,,,
-Kansas City,Kansas City,Missouri,West North Central,Midwest,US,3/21/2020 00:00,12,,,,,
-Omaha,,Nebraska,West North Central,Midwest,US,3/21/2020 00:00,38,,,356,,
-Fargo,,North Dakota,West North Central,Midwest,US,3/21/2020 00:00,28,,1182,1154,,
-Sioux Falls,,South Dakota,West North Central,Midwest,US,3/21/2020 00:00,14,1,,691,,
-,,Connecticut,New England,Northeast,US,3/21/2020 00:00,223,5,3100,,,
-Bridgeport,Fairfield,Connecticut,New England,Northeast,US,3/21/2020 00:00,140,,,,,
-Hartford,Hartford,Connecticut,New England,Northeast,US,3/21/2020 00:00,35,,,,,
-New Haven,New Haven,Connecticut,New England,Northeast,US,3/21/2020 00:00,24,,,,,
-,,Maine,New England,Northeast,US,3/21/2020 00:00,70,,2264,,,
-Portland,Cumberland,Maine,New England,Northeast,US,3/21/2020 00:00,41,,,,,
-Lewiston,Androscoggin,Maine,New England,Northeast,US,3/21/2020 00:00,3,,,,,
-,,Massachusetts,New England,Northeast,US,3/21/2020 00:00,525,1,3031,,,
-Lowell,Middlesex,Massachusetts,New England,Northeast,US,3/21/2020 00:00,177,,,,,
-Boston,Suffolk,Massachusetts,New England,Northeast,US,3/21/2020 00:00,108,,,,,
-Quincy,Norfolk,Massachusetts,New England,Northeast,US,3/21/2020 00:00,69,,,,,
-Lynn,Essex,Massachusetts,New England,Northeast,US,3/21/2020 00:00,41,,,,,
-,Unknown,Massachusetts,New England,Northeast,US,3/21/2020 00:00,26,,,,,
-Worcester,Worcester,Massachusetts,New England,Northeast,US,3/21/2020 00:00,24,,,,,
-Pittsfield,Berkshire,Massachusetts,New England,Northeast,US,3/21/2020 00:00,21,,,,,
-Brockton,Plymouth,Massachusetts,New England,Northeast,US,3/21/2020 00:00,20,,,,,
-,,New Hampshire,New England,Northeast,US,3/21/2020 00:00,65,,2212,,,
-Derry,Rockingham,New Hampshire,New England,Northeast,US,3/21/2020 00:00,25,,,,,
-Providence,,Rhode Island,New England,Northeast,US,3/21/2020 00:00,66,,,862,,
-Burlington,,Vermont,New England,Northeast,US,3/21/2020 00:00,49,2,978,,,
-,,New Jersey,Mid-Atlantic,Northeast,US,3/21/2020 00:00,1327,16,,,40.69249722,-74.16866056
-Hackensack,Bergen,New Jersey,Mid-Atlantic,Northeast,US,3/21/2020 00:00,363,,,,,
-Lowell,Middlesex,New Jersey,Mid-Atlantic,Northeast,US,3/21/2020 00:00,116,,,,,
-Newark,Essex,New Jersey,Mid-Atlantic,Northeast,US,3/21/2020 00:00,107,,,,,
-Jersey City,Hudson,New Jersey,Mid-Atlantic,Northeast,US,3/21/2020 00:00,97,,,,,
-Middletown,Monmouth,New Jersey,Mid-Atlantic,Northeast,US,3/21/2020 00:00,92,,,,,
-Elizabeth,Union,New Jersey,Mid-Atlantic,Northeast,US,3/21/2020 00:00,81,,,,,
-Paterson,Passiac,New Jersey,Mid-Atlantic,Northeast,US,3/21/2020 00:00,67,,,,,
-Parsippany-Troy Hills,Morris,New Jersey,Mid-Atlantic,Northeast,US,3/21/2020 00:00,64,,,,,
-,Ocean,New Jersey,Mid-Atlantic,Northeast,US,3/21/2020 00:00,62,,,,,
-,Somerset,New Jersey,Mid-Atlantic,Northeast,US,3/21/2020 00:00,34,,,,,
-,Mercer,New Jersey,Mid-Atlantic,Northeast,US,3/21/2020 00:00,30,,,,,
-,Burlington,New Jersey,Mid-Atlantic,Northeast,US,3/21/2020 00:00,21,,,,,
-,,New York,Mid-Atlantic,Northeast,US,3/21/2020 00:00,10356,76,,,40.63975111,-73.77892556
-,New York City,New York,Mid-Atlantic,Northeast,US,3/21/2020 00:00,6211,,,,,
-,Westchester,New York,Mid-Atlantic,Northeast,US,3/21/2020 00:00,1387,,,,,
-,Nassau,New York,Mid-Atlantic,Northeast,US,3/21/2020 00:00,1234,,,,,
-,Suffolk,New York,Mid-Atlantic,Northeast,US,3/21/2020 00:00,662,,,,,
-,Rockland,New York,Mid-Atlantic,Northeast,US,3/21/2020 00:00,262,,,,,
-,Orange,New York,Mid-Atlantic,Northeast,US,3/21/2020 00:00,163,,,,,
-,Albany,New York,Mid-Atlantic,Northeast,US,3/21/2020 00:00,88,,,,,
-,Dutchess,New York,Mid-Atlantic,Northeast,US,3/21/2020 00:00,49,,,,,
-,Monroe,New York,Mid-Atlantic,Northeast,US,3/21/2020 00:00,42,,,,,
-,Erie,New York,Mid-Atlantic,Northeast,US,3/21/2020 00:00,38,,,,,
-,Saratoga,New York,Mid-Atlantic,Northeast,US,3/21/2020 00:00,35,,,,,
-,Schenectady,New York,Mid-Atlantic,Northeast,US,3/21/2020 00:00,32,,,,,
-,Putnam,New York,Mid-Atlantic,Northeast,US,3/21/2020 00:00,22,,,,,
-,Rensselaer,New York,Mid-Atlantic,Northeast,US,3/21/2020 00:00,20,,,,,
-,,Pennsylvania,Mid-Atlantic,Northeast,US,3/21/2020 00:00,371,2,,3766,,
-Lower Merion,Montgomery,Pennsylvania,Mid-Atlantic,Northeast,US,3/21/2020 00:00,71,,,,,
-Philadelphia,Philadelphia,Pennsylvania,Mid-Atlantic,Northeast,US,3/21/2020 00:00,69,,,,,
-,Delaware,Pennsylvania,Mid-Atlantic,Northeast,US,3/21/2020 00:00,33,,,,,
-,Allegheny,Pennsylvania,Mid-Atlantic,Northeast,US,3/21/2020 00:00,31,,,,,
-,Monroe,Pennsylvania,Mid-Atlantic,Northeast,US,3/21/2020 00:00,25,,,,,
-,Bucks,Pennsylvania,Mid-Atlantic,Northeast,US,3/21/2020 00:00,24,,,,,
-,,Delaware,South Atlantic,South,US,3/21/2020 00:00,45,,,,,
-Wilmington,New Castle,Delaware,South Atlantic,South,US,3/21/2020 00:00,32,,,,,
-,,Florida,South Atlantic,South,US,3/21/2020 00:00,763,12,,,,
-Fort Lauderdale,Broward,Florida,South Atlantic,South,US,3/21/2020 00:00,164,,,,,
-,Palm Beach,Florida,South Atlantic,South,US,3/21/2020 00:00,56,,,,,
-,Hillsborough,Florida,South Atlantic,South,US,3/21/2020 00:00,47,,,,,
-,Pinellas,Florida,South Atlantic,South,US,3/21/2020 00:00,29,,,,,
-,Orange,Florida,South Atlantic,South,US,3/21/2020 00:00,29,,,,,
-,Collier,Florida,South Atlantic,South,US,3/21/2020 00:00,28,,,,,
-,Alachua,Florida,South Atlantic,South,US,3/21/2020 00:00,25,,,,,
-,Duval,Florida,South Atlantic,South,US,3/21/2020 00:00,25,,,,,
-,Osceola,Florida,South Atlantic,South,US,3/21/2020 00:00,21,,,,,
-,,Georgia,South Atlantic,South,US,3/21/2020 00:00,555,20,,,,
-Atlanta,Fulton,Georgia,South Atlantic,South,US,3/21/2020 00:00,99,,,,,
-,Bartow,Georgia,South Atlantic,South,US,3/21/2020 00:00,56,,,,,
-,Cobb,Georgia,South Atlantic,South,US,3/21/2020 00:00,50,,,,,
-,Dougherty,Georgia,South Atlantic,South,US,3/21/2020 00:00,47,,,,,
-,DeKalb,Georgia,South Atlantic,South,US,3/21/2020 00:00,41,,,,,
-,Gwinnett,Georgia,South Atlantic,South,US,3/21/2020 00:00,21,,,,,
-Baltimore,,Maryland,South Atlantic,South,US,3/21/2020 00:00,190,2,,,,
-Rockville,Montgomery,Maryland,South Atlantic,South,US,3/21/2020 00:00,68,,,,,
-,Prince George,Maryland,South Atlantic,South,US,3/21/2020 00:00,36,,,,,
-,,North Carolina,South Atlantic,South,US,3/21/2020 00:00,184,,5276,,,
-Charlotte,Mecklenburg,North Carolina,South Atlantic,South,US,3/21/2020 00:00,41,,,,,
-,Durham,North Carolina,South Atlantic,South,US,3/21/2020 00:00,37,,,,,
-,Wake,North Carolina,South Atlantic,South,US,3/21/2020 00:00,33,,,,,
-Charleston,,South Carolina,South Atlantic,South,US,3/21/2020 00:00,173,3,,1466,,
-Camden,Kershaw,South Carolina,South Atlantic,South,US,3/21/2020 00:00,43,,,,,
-,Richland,South Carolina,South Atlantic,South,US,3/21/2020 00:00,27,,,,,
-,,Virginia,South Atlantic,South,US,3/21/2020 00:00,152,2,2790,,,
-Herndon,Fairfax,Virginia,South Atlantic,South,US,3/21/2020 00:00,22,,,,,
-,Arlington,Virginia,South Atlantic,South,US,3/21/2020 00:00,22,,,,,
-,James City,Virginia,South Atlantic,South,US,3/21/2020 00:00,20,,,,,
-,,District of Columbia,South Atlantic,South,US,3/21/2020 00:00,98,,1055,,,
-Charleston,,West Virginia,South Atlantic,South,US,3/21/2020 00:00,12,,,385,,
-,,Alabama,East South Central,South,US,3/21/2020 00:00,131,,,,,
-Birmingham,Jefferson,Alabama,East South Central,South,US,3/21/2020 00:00,61,,,,,
-Louisville,,Kentucky,East South Central,South,US,3/21/2020 00:00,54,,768,,,
-Jackson,,Mississippi,East South Central,South,US,3/21/2020 00:00,140,1,,,,
-,,Tennessee,East South Central,South,US,3/21/2020 00:00,371,,694,,,
-Nashville,Davidson,Tennessee,East South Central,South,US,3/21/2020 00:00,140,,,,,
-,Out of TN,Tennessee,East South Central,South,US,3/21/2020 00:00,59,,,,,
-,Williamson,Tennessee,East South Central,South,US,3/21/2020 00:00,47,,,,,
-,Shelby,Tennessee,East South Central,South,US,3/21/2020 00:00,40,,,,,
-Little Rock,,Arkansas,West South Central,South,US,3/21/2020 00:00,118,,,567,,
-,,Louisiana,West South Central,South,US,3/21/2020 00:00,763,20,3302,,,
-New Orleans,Orleans,Louisiana,West South Central,South,US,3/21/2020 00:00,418,15,,,,
-,Jefferson,Louisiana,West South Central,South,US,3/21/2020 00:00,166,3,,,,
-,Catahoula,Louisiana,West South Central,South,US,3/21/2020 00:00,1,1,,,,
-,St. James,Louisiana,West South Central,South,US,3/21/2020 00:00,1,1,,,,
-,,Oklahoma,West South Central,South,US,3/21/2020 00:00,55,1,,560,,
-Oklahoma City,Oklahoma,Oklahoma,West South Central,South,US,3/21/2020 00:00,20,,,,,
-,,Texas,West South Central,South,US,3/21/2020 00:00,304,5,6522,,29.98047222,-95.33972222
-,Pending County Assignment,Texas,West South Central,South,US,3/21/2020 00:00,83,,,,,
-Dallas,Dallas,Texas,West South Central,South,US,3/21/2020 00:00,29,,,,,
-Houston,Harris,Texas,West South Central,South,US,3/21/2020 00:00,25,,,,,
-San Antonio,Bexar,Texas,West South Central,South,US,3/21/2020 00:00,22,,,,,
-Austin,Travis,Texas,West South Central,South,US,3/21/2020 00:00,22,,,,,
-,,Arizona,Mountain,West,US,3/21/2020 00:00,104,1,,,,
-Phoenix,Maricopa,Arizona,Mountain,West,US,3/21/2020 00:00,49,,,,,
-,,Colorado,Mountain,West,US,3/21/2020 00:00,475,5,4550,,,
-,Denver,Colorado,Mountain,West,US,3/21/2020 00:00,97,,,,,
-,Eagle,Colorado,Mountain,West,US,3/21/2020 00:00,74,,,,,
-,Jefferson,Colorado,Mountain,West,US,3/21/2020 00:00,43,,,,,
-,Arapahoe,Colorado,Mountain,West,US,3/21/2020 00:00,40,,,,,
-,El Paso,Colorado,Mountain,West,US,3/21/2020 00:00,37,,,,,
-,Boulder,Colorado,Mountain,West,US,3/21/2020 00:00,30,,,,,
-,Douglas,Colorado,Mountain,West,US,3/21/2020 00:00,27,,,,,
-,Weld,Colorado,Mountain,West,US,3/21/2020 00:00,21,,,,,
-Boise,,Idaho,Mountain,West,US,3/21/2020 00:00,42,,1217,,,
-Hailey,Blaine,Idaho,Mountain,West,US,3/21/2020 00:00,21,,,,,
-Billings,,Montana,Mountain,West,US,3/21/2020 00:00,27,,,,,
-Las Vegas,,Nevada,Mountain,West,US,3/21/2020 00:00,154,2,2602,2448,,
-,,New Mexico,Mountain,West,US,3/21/2020 00:00,57,,4779,,,
-Albuquerque,Bernalillo,New Mexico,Mountain,West,US,3/21/2020 00:00,32,,,,,
-,,Utah,Mountain,West,US,3/21/2020 00:00,136,,2560,,,
-Salt Lake City,Salt Lake,Utah,Mountain,West,US,3/21/2020 00:00,57,,,,,
-,Summit,Utah,Mountain,West,US,3/21/2020 00:00,32,,,,,
-Cheyenne,,Wyoming,Mountain,West,US,3/21/2020 00:00,24,,,,,
-Anchorage,,Alaska,Pacific,West,US,3/21/2020 00:00,14,,,,,
-Los Angeles,,California,Pacific,West,US,3/21/2020 00:00,1224,23,,,33.94253611,-118.4080744
-,,Hawaii,Pacific,West,US,3/21/2020 00:00,48,,,,,
-,Honolulu,Hawaii,Pacific,West,US,3/21/2020 00:00,42,,,,,
-Portland,,Oregon,Pacific,West,US,3/21/2020 00:00,137,4,2912,2338,,
-,Washington,Oregon,Pacific,West,US,3/21/2020 00:00,42,1,,330,,
-,Multnomah,Oregon,Pacific,West,US,3/21/2020 00:00,18,1,,498,,
-,Marion,Oregon,Pacific,West,US,3/21/2020 00:00,19,1,,160,,
-,Lane,Oregon,Pacific,West,US,3/21/2020 00:00,3,1,,145,,
-,,Washington,Pacific,West,US,3/21/2020 00:00,1793,94,,25328,47.44898194,-122.3093131
-Seattle,King,Washington,Pacific,West,US,3/21/2020 00:00,934,74,,,,
-,Snohomish,Washington,Pacific,West,US,3/21/2020 00:00,447,10,,,,
-,Pierce,Washington,Pacific,West,US,3/21/2020 00:00,95,1,,,,
-,Unassigned,Washington,Pacific,West,US,3/21/2020 00:00,147,,,,,
-,Whatcom,Washington,Pacific,West,US,3/21/2020 00:00,14,2,,,,
-,Island,Washington,Pacific,West,US,3/21/2020 00:00,19,1,,,,
-,Grant,Washington,Pacific,West,US,3/21/2020 00:00,11,1,,,,
-,Clark,Washington,Pacific,West,US,3/21/2020 00:00,9,3,,,,
-,Benton,Washington,Pacific,West,US,3/21/2020 00:00,7,2,,,,
-,,,,,US,3/22/2020 00:00,32451,398,,,,
-,,Illinois,East North Central,Midwest,US,3/22/2020 00:00,1049,9,8374,,,
-Chicago,Cook,Illinois,East North Central,Midwest,US,3/22/2020 00:00,519,,,,,
-,Cook,Illinois,East North Central,Midwest,US,3/22/2020 00:00,286,,,,,
-Naperville,DuPage,Illinois,East North Central,Midwest,US,3/22/2020 00:00,79,,,,,
-Waukegan,Lake,Illinois,East North Central,Midwest,US,3/22/2020 00:00,69,,,,,
-,Will,Illinois,East North Central,Midwest,US,3/22/2020 00:00,21,,,,,
-,,Indiana,East North Central,Midwest,US,3/22/2020 00:00,201,6,1494,,,
-Indianapolis,Marion,Indiana,East North Central,Midwest,US,3/22/2020 00:00,82,,,,,
-,,Michigan,East North Central,Midwest,US,3/22/2020 00:00,1035,8,,,,
-,Detroit City,Michigan,East North Central,Midwest,US,3/22/2020 00:00,325,4,,,,
-Troy,Oakland,Michigan,East North Central,Midwest,US,3/22/2020 00:00,277,1,,,,
-,Wayne,Michigan,East North Central,Midwest,US,3/22/2020 00:00,152,1,,,,
-,Macomb,Michigan,East North Central,Midwest,US,3/22/2020 00:00,140,1,,,,
-Ann Arbor,Washtenaw,Michigan,East North Central,Midwest,US,3/22/2020 00:00,35,,,,,
-Grand Rapids,Kent,Michigan,East North Central,Midwest,US,3/22/2020 00:00,20,1,,,,
-,,Ohio,East North Central,Midwest,US,3/22/2020 00:00,351,3,,,,
-Cleveland,Cuyahoga,Ohio,East North Central,Midwest,US,3/22/2020 00:00,125,,,,,
-Columbus,Franklin,Ohio,East North Central,Midwest,US,3/22/2020 00:00,34,,,,,
-,Summit,Ohio,East North Central,Midwest,US,3/22/2020 00:00,23,,,,,
-,,Wisconsin,East North Central,Midwest,US,3/22/2020 00:00,381,4,6230,,,
-Milwaukee,Milwaukee,Wisconsin,East North Central,Midwest,US,3/22/2020 00:00,182,2,,,,
-Madison,Dane,Wisconsin,East North Central,Midwest,US,3/22/2020 00:00,61,,,,,
-Waukesha,Waukesha,Wisconsin,East North Central,Midwest,US,3/22/2020 00:00,30,,,,,
-,Fond du Lac,Wisconsin,East North Central,Midwest,US,3/22/2020 00:00,16,1,,,,
-,Ozaukee,Wisconsin,East North Central,Midwest,US,3/22/2020 00:00,13,1,,,,
-,,Iowa,West North Central,Midwest,US,3/22/2020 00:00,90,,,,,
-Iowa City,Johnson,Iowa,West North Central,Midwest,US,3/22/2020 00:00,32,,,,,
-,,Kansas,West North Central,Midwest,US,3/22/2020 00:00,64,2,,,,
-Overland Park,Johnson,Kansas,West North Central,Midwest,US,3/22/2020 00:00,28,,,,,
-,,Minnesota,West North Central,Midwest,US,3/22/2020 00:00,169,1,,,,
-Minneapolis,Hennepin,Minnesota,West North Central,Midwest,US,3/22/2020 00:00,57,,,,,
-,,Missouri,West North Central,Midwest,US,3/22/2020 00:00,90,3,,,,
-,St. Louis ,Missouri,West North Central,Midwest,US,3/22/2020 00:00,22,,,,,
-Kansas City,Kansas City,Missouri,West North Central,Midwest,US,3/22/2020 00:00,13,,,,,
-Omaha,,Nebraska,West North Central,Midwest,US,3/22/2020 00:00,42,,,356,,
-Fargo,,North Dakota,West North Central,Midwest,US,3/22/2020 00:00,30,,1355,1325,,
-Sioux Falls,,South Dakota,West North Central,Midwest,US,3/22/2020 00:00,21,1,,740,,
-,,Connecticut,New England,Northeast,US,3/22/2020 00:00,327,8,,,,
-Bridgeport,Fairfield,Connecticut,New England,Northeast,US,3/22/2020 00:00,208,5,,,,
-Hartford,Hartford,Connecticut,New England,Northeast,US,3/22/2020 00:00,54,1,,,,
-New Haven,New Haven,Connecticut,New England,Northeast,US,3/22/2020 00:00,29,,,,,
-,Tolland,Connecticut,New England,Northeast,US,3/22/2020 00:00,14,2,,,,
-,,Maine,New England,Northeast,US,3/22/2020 00:00,89,,,2264,,
-Portland,Cumberland,Maine,New England,Northeast,US,3/22/2020 00:00,53,,,,,
-Lewiston,Androscoggin,Maine,New England,Northeast,US,3/22/2020 00:00,3,,,,,
-,,Massachusetts,New England,Northeast,US,3/22/2020 00:00,646,5,,,,
-Lowell,Middlesex,Massachusetts,New England,Northeast,US,3/22/2020 00:00,199,,,,,
-Boston,Suffolk,Massachusetts,New England,Northeast,US,3/22/2020 00:00,126,,,,,
-Quincy,Norfolk,Massachusetts,New England,Northeast,US,3/22/2020 00:00,75,,,,,
-Lynn,Essex,Massachusetts,New England,Northeast,US,3/22/2020 00:00,60,,,,,
-Worcester,Worcester,Massachusetts,New England,Northeast,US,3/22/2020 00:00,37,,,,,
-,Unknown,Massachusetts,New England,Northeast,US,3/22/2020 00:00,34,,,,,
-Brockton,Plymouth,Massachusetts,New England,Northeast,US,3/22/2020 00:00,25,,,,,
-,Barnstable,Massachusetts,New England,Northeast,US,3/22/2020 00:00,24,,,,,
-,Bristol,Massachusetts,New England,Northeast,US,3/22/2020 00:00,24,,,,,
-Pittsfield,Berkshire,Massachusetts,New England,Northeast,US,3/22/2020 00:00,23,,,,,
-,,New Hampshire,New England,Northeast,US,3/22/2020 00:00,78,,2341,,,
-Derry,Rockingham,New Hampshire,New England,Northeast,US,3/22/2020 00:00,28,,,,,
-Providence,,Rhode Island,New England,Northeast,US,3/22/2020 00:00,83,,,932,,
-Burlington,,Vermont,New England,Northeast,US,3/22/2020 00:00,52,2,1158,,,
-,,New Jersey,Mid-Atlantic,Northeast,US,3/22/2020 00:00,1914,20,,,40.69249722,-74.16866056
-Hackensack,Bergen,New Jersey,Mid-Atlantic,Northeast,US,3/22/2020 00:00,457,,,,,
-Newark,Essex,New Jersey,Mid-Atlantic,Northeast,US,3/22/2020 00:00,172,,,,,
-Middletown,Monmouth,New Jersey,Mid-Atlantic,Northeast,US,3/22/2020 00:00,158,,,,,
-Lowell,Middlesex,New Jersey,Mid-Atlantic,Northeast,US,3/22/2020 00:00,147,,,,,
-Jersey City,Hudson,New Jersey,Mid-Atlantic,Northeast,US,3/22/2020 00:00,126,,,,,
-Elizabeth,Union,New Jersey,Mid-Atlantic,Northeast,US,3/22/2020 00:00,124,,,,,
-Parsippany-Troy Hills,Morris,New Jersey,Mid-Atlantic,Northeast,US,3/22/2020 00:00,119,,,,,
-,Ocean,New Jersey,Mid-Atlantic,Northeast,US,3/22/2020 00:00,102,,,,,
-Paterson,Passiac,New Jersey,Mid-Atlantic,Northeast,US,3/22/2020 00:00,95,,,,,
-,Somerset,New Jersey,Mid-Atlantic,Northeast,US,3/22/2020 00:00,51,,,,,
-,Mercer,New Jersey,Mid-Atlantic,Northeast,US,3/22/2020 00:00,40,,,,,
-,Burlington,New Jersey,Mid-Atlantic,Northeast,US,3/22/2020 00:00,26,,,,,
-,Camden,New Jersey,Mid-Atlantic,Northeast,US,3/22/2020 00:00,22,,,,,
-,,New York,Mid-Atlantic,Northeast,US,3/22/2020 00:00,15168,117,,,40.63975111,-73.77892556
-,New York City,New York,Mid-Atlantic,Northeast,US,3/22/2020 00:00,9045,,,,,
-,Westchester,New York,Mid-Atlantic,Northeast,US,3/22/2020 00:00,1873,,,,,
-,Nassau,New York,Mid-Atlantic,Northeast,US,3/22/2020 00:00,1900,,,,,
-,Suffolk,New York,Mid-Atlantic,Northeast,US,3/22/2020 00:00,1034,,,,,
-,Rockland,New York,Mid-Atlantic,Northeast,US,3/22/2020 00:00,455,,,,,
-,Orange,New York,Mid-Atlantic,Northeast,US,3/22/2020 00:00,247,,,,,
-,Albany,New York,Mid-Atlantic,Northeast,US,3/22/2020 00:00,123,,,,,
-,Dutchess,New York,Mid-Atlantic,Northeast,US,3/22/2020 00:00,82,,,,,
-,Monroe,New York,Mid-Atlantic,Northeast,US,3/22/2020 00:00,57,,,,,
-,Erie,New York,Mid-Atlantic,Northeast,US,3/22/2020 00:00,54,,,,,
-,Saratoga,New York,Mid-Atlantic,Northeast,US,3/22/2020 00:00,41,,,,,
-,Schenectady,New York,Mid-Atlantic,Northeast,US,3/22/2020 00:00,39,,,,,
-,Putnam,New York,Mid-Atlantic,Northeast,US,3/22/2020 00:00,37,,,,,
-,Onondaga,New York,Mid-Atlantic,Northeast,US,3/22/2020 00:00,29,,,,,
-,Rensselaer,New York,Mid-Atlantic,Northeast,US,3/22/2020 00:00,26,,,,,
-,Ulster,New York,Mid-Atlantic,Northeast,US,3/22/2020 00:00,26,,,,,
-,,Pennsylvania,Mid-Atlantic,Northeast,US,3/22/2020 00:00,479,2,,4964,,
-Philadelphia,Philadelphia,Pennsylvania,Mid-Atlantic,Northeast,US,3/22/2020 00:00,91,,,,,
-Lower Merion,Montgomery,Pennsylvania,Mid-Atlantic,Northeast,US,3/22/2020 00:00,87,,,,,
-,Delaware,Pennsylvania,Mid-Atlantic,Northeast,US,3/22/2020 00:00,43,,,,,
-,Allegheny,Pennsylvania,Mid-Atlantic,Northeast,US,3/22/2020 00:00,40,,,,,
-,Bucks,Pennsylvania,Mid-Atlantic,Northeast,US,3/22/2020 00:00,32,,,,,
-,Monroe,Pennsylvania,Mid-Atlantic,Northeast,US,3/22/2020 00:00,31,,,,,
-,Chester,Pennsylvania,Mid-Atlantic,Northeast,US,3/22/2020 00:00,23,,,,,
-,Northampton,Pennsylvania,Mid-Atlantic,Northeast,US,3/22/2020 00:00,21,,,,,
-,,Delaware,South Atlantic,South,US,3/22/2020 00:00,56,,,,,
-Wilmington,New Castle,Delaware,South Atlantic,South,US,3/22/2020 00:00,39,,,,,
-,,Florida,South Atlantic,South,US,3/22/2020 00:00,1007,13,,,,
-Fort Lauderdale,Broward,Florida,South Atlantic,South,US,3/22/2020 00:00,217,,,,,
-,Palm Beach,Florida,South Atlantic,South,US,3/22/2020 00:00,72,,,,,
-,Hillsborough,Florida,South Atlantic,South,US,3/22/2020 00:00,58,,,,,
-,Duval,Florida,South Atlantic,South,US,3/22/2020 00:00,39,,,,,
-,Pinellas,Florida,South Atlantic,South,US,3/22/2020 00:00,38,,,,,
-,Alachua,Florida,South Atlantic,South,US,3/22/2020 00:00,35,,,,,
-,Orange,Florida,South Atlantic,South,US,3/22/2020 00:00,33,,,,,
-,Collier,Florida,South Atlantic,South,US,3/22/2020 00:00,33,,,,,
-,Lee,Florida,South Atlantic,South,US,3/22/2020 00:00,26,,,,,
-,Osceola,Florida,South Atlantic,South,US,3/22/2020 00:00,24,,,,,
-,,Georgia,South Atlantic,South,US,3/22/2020 00:00,620,25,,4020,,
-Atlanta,Fulton,Georgia,South Atlantic,South,US,3/22/2020 00:00,111,,,,,
-,Cobb,Georgia,South Atlantic,South,US,3/22/2020 00:00,67,,,,,
-,Bartow,Georgia,South Atlantic,South,US,3/22/2020 00:00,56,,,,,
-,DeKalb,Georgia,South Atlantic,South,US,3/22/2020 00:00,53,,,,,
-,Dougherty,Georgia,South Atlantic,South,US,3/22/2020 00:00,52,,,,,
-,Gwinnett,Georgia,South Atlantic,South,US,3/22/2020 00:00,27,,,,,
-Baltimore,,Maryland,South Atlantic,South,US,3/22/2020 00:00,244,,,,,
-Rockville,Montgomery,Maryland,South Atlantic,South,US,3/22/2020 00:00,83,,,,,
-,Prince George,Maryland,South Atlantic,South,US,3/22/2020 00:00,40,,,,,
-,Baltimore,Maryland,South Atlantic,South,US,3/22/2020 00:00,28,,,,,
-,Baltimore City,Maryland,South Atlantic,South,US,3/22/2020 00:00,24,,,,,
-,Howard,Maryland,South Atlantic,South,US,3/22/2020 00:00,24,,,,,
-,,North Carolina,South Atlantic,South,US,3/22/2020 00:00,255,,6438,,,
-Charlotte,Mecklenburg,North Carolina,South Atlantic,South,US,3/22/2020 00:00,66,,,,,
-,Durham,North Carolina,South Atlantic,South,US,3/22/2020 00:00,40,,,,,
-,Wake,North Carolina,South Atlantic,South,US,3/22/2020 00:00,40,,,,,
-Charleston,,South Carolina,South Atlantic,South,US,3/22/2020 00:00,195,3,,,,
-Camden,Kershaw,South Carolina,South Atlantic,South,US,3/22/2020 00:00,44,,,,,
-,Richland,South Carolina,South Atlantic,South,US,3/22/2020 00:00,29,,,,,
-,,Virginia,South Atlantic,South,US,3/22/2020 00:00,219,3,3337,,,
-,James City,Virginia,South Atlantic,South,US,3/22/2020 00:00,32,,,,,
-Herndon,Fairfax,Virginia,South Atlantic,South,US,3/22/2020 00:00,31,,,,,
-,Arlington,Virginia,South Atlantic,South,US,3/22/2020 00:00,26,,,,,
-,,District of Columbia,South Atlantic,South,US,3/22/2020 00:00,116,2,1229,1113,,
-Charleston,,West Virginia,South Atlantic,South,US,3/22/2020 00:00,16,,,444,,
-,,Alabama,East South Central,South,US,3/22/2020 00:00,157,,1602,,,
-Birmingham,Jefferson,Alabama,East South Central,South,US,3/22/2020 00:00,71,,,,,
-Louisville,,Kentucky,East South Central,South,US,3/22/2020 00:00,99,,1571,,,
-Jackson,,Mississippi,East South Central,South,US,3/22/2020 00:00,207,1,,,,
-,Hinds,Mississippi,East South Central,South,US,3/22/2020 00:00,20,,,,,
-,Hancock,Mississippi,East South Central,South,US,3/22/2020 00:00,4,1,,,,
-,,Tennessee,East South Central,South,US,3/22/2020 00:00,505,,,,,
-Nashville,Davidson,Tennessee,East South Central,South,US,3/22/2020 00:00,167,,,,,
-,Out of TN,Tennessee,East South Central,South,US,3/22/2020 00:00,82,,,,,
-,Shelby,Tennessee,East South Central,South,US,3/22/2020 00:00,66,,,,,
-,Williamson,Tennessee,East South Central,South,US,3/22/2020 00:00,48,,,,,
-,Unknown,Tennessee,East South Central,South,US,3/22/2020 00:00,30,,,,,
-,Sumner,Tennessee,East South Central,South,US,3/22/2020 00:00,22,,,,,
-Little Rock,,Arkansas,West South Central,South,US,3/22/2020 00:00,165,,,,,
-,,Louisiana,West South Central,South,US,3/22/2020 00:00,837,20,3498,,,
-New Orleans,Orleans,Louisiana,West South Central,South,US,3/22/2020 00:00,451,15,,,,
-,Jefferson,Louisiana,West South Central,South,US,3/22/2020 00:00,184,3,,,,
-,St. Tammany,Louisiana,West South Central,South,US,3/22/2020 00:00,25,,,,,
-,East Baton Rouge,Louisiana,West South Central,South,US,3/22/2020 00:00,20,,,,,
-,Catahoula,Louisiana,West South Central,South,US,3/22/2020 00:00,1,1,,,,
-,St. James,Louisiana,West South Central,South,US,3/22/2020 00:00,1,1,,,,
-,,Oklahoma,West South Central,South,US,3/22/2020 00:00,69,2,,669,,
-Oklahoma City,Oklahoma,Oklahoma,West South Central,South,US,3/22/2020 00:00,26,,,,,
-,,Texas,West South Central,South,US,3/22/2020 00:00,334,5,8756,,29.98047222,-95.33972222
-,Pending County Assignment,Texas,West South Central,South,US,3/22/2020 00:00,69,,,,,
-Dallas,Dallas,Texas,West South Central,South,US,3/22/2020 00:00,30,,,,,
-Houston,Harris,Texas,West South Central,South,US,3/22/2020 00:00,27,,,,,
-San Antonio,Bexar,Texas,West South Central,South,US,3/22/2020 00:00,24,,,,,
-Austin,Travis,Texas,West South Central,South,US,3/22/2020 00:00,22,,,,,
-,Collin,Texas,West South Central,South,US,3/22/2020 00:00,21,,,,,
-,,Arizona,Mountain,West,US,3/22/2020 00:00,152,2,408,,,
-Phoenix,Maricopa,Arizona,Mountain,West,US,3/22/2020 00:00,81,,,,,
-,,Colorado,Mountain,West,US,3/22/2020 00:00,591,6,5436,,,
-,Denver,Colorado,Mountain,West,US,3/22/2020 00:00,125,,,,,
-,Eagle,Colorado,Mountain,West,US,3/22/2020 00:00,80,,,,,
-,Jefferson,Colorado,Mountain,West,US,3/22/2020 00:00,51,,,,,
-,El Paso,Colorado,Mountain,West,US,3/22/2020 00:00,51,,,,,
-,Arapahoe,Colorado,Mountain,West,US,3/22/2020 00:00,45,,,,,
-,Boulder,Colorado,Mountain,West,US,3/22/2020 00:00,37,,,,,
-,Weld,Colorado,Mountain,West,US,3/22/2020 00:00,37,,,,,
-,Douglas,Colorado,Mountain,West,US,3/22/2020 00:00,33,,,,,
-,Lake,Colorado,Mountain,West,US,3/22/2020 00:00,32,,,,,
-Boise,,Idaho,Mountain,West,US,3/22/2020 00:00,47,,,,,
-Hailey,Blaine,Idaho,Mountain,West,US,3/22/2020 00:00,21,,,,,
-Billings,,Montana,Mountain,West,US,3/22/2020 00:00,34,,,,,
-Las Vegas,,Nevada,Mountain,West,US,3/22/2020 00:00,190,2,2909,,,
-,,New Mexico,Mountain,West,US,3/22/2020 00:00,65,,5386,,,
-Albuquerque,Bernalillo,New Mexico,Mountain,West,US,3/22/2020 00:00,34,,,,,
-,,Utah,Mountain,West,US,3/22/2020 00:00,181,1,3689,,,
-Salt Lake City,Salt Lake,Utah,Mountain,West,US,3/22/2020 00:00,80,,,,,
-,Summit,Utah,Mountain,West,US,3/22/2020 00:00,43,,,,,
-Cheyenne,,Wyoming,Mountain,West,US,3/22/2020 00:00,26,,484,,,
-Anchorage,,Alaska,Pacific,West,US,3/22/2020 00:00,22,,,,,
-Los Angeles,,California,Pacific,West,US,3/22/2020 00:00,1468,27,,,33.94253611,-118.4080744
-,,Hawaii,Pacific,West,US,3/22/2020 00:00,58,,,,,
-,Honolulu,Hawaii,Pacific,West,US,3/22/2020 00:00,41,,,,,
-Portland,,Oregon,Pacific,West,US,3/22/2020 00:00,161,,3025,2864,,
-,Washington,Oregon,Pacific,West,US,3/22/2020 00:00,55,1,,,,
-,Multnomah,Oregon,Pacific,West,US,3/22/2020 00:00,19,1,,,,
-,Marion,Oregon,Pacific,West,US,3/22/2020 00:00,22,1,,,,
-,Lane,Oregon,Pacific,West,US,3/22/2020 00:00,4,1,,,,
-,,Washington,Pacific,West,US,3/22/2020 00:00,1996,95,,,47.44898194,-122.3093131
-Seattle,King,Washington,Pacific,West,US,3/22/2020 00:00,1040,75,,,,
-,Snohomish,Washington,Pacific,West,US,3/22/2020 00:00,480,10,,,,
-,Unassigned,Washington,Pacific,West,US,3/22/2020 00:00,165,,,,,
-,Pierce,Washington,Pacific,West,US,3/22/2020 00:00,107,1,,,,
-,Skagit,Washington,Pacific,West,US,3/22/2020 00:00,33,0,,,,
-,Island,Washington,Pacific,West,US,3/22/2020 00:00,21,1,,,,
-,Spokane,Washington,Pacific,West,US,3/22/2020 00:00,20,0,,,,
-,Whatcom,Washington,Pacific,West,US,3/22/2020 00:00,14,2,,,,
-,Grant,Washington,Pacific,West,US,3/22/2020 00:00,18,1,,,,
-,Clark,Washington,Pacific,West,US,3/22/2020 00:00,10,3,,,,
-,Benton,Washington,Pacific,West,US,3/22/2020 00:00,7,2,,,,
-,,,,,US,3/23/2020 00:00,,,,,,
-,,Illinois,East North Central,Midwest,US,3/23/2020 00:00,1285,12,9868,,,
-Chicago,Cook,Illinois,East North Central,Midwest,US,3/23/2020 00:00,636,4,,,,
-Naperville,DuPage,Illinois,East North Central,Midwest,US,3/23/2020 00:00,95,,,,,
-Waukegan,Lake,Illinois,East North Central,Midwest,US,3/23/2020 00:00,96,,,,,
-,,Indiana,East North Central,Midwest,US,3/23/2020 00:00,259,7,1960,,,
-Indianapolis,Marion,Indiana,East North Central,Midwest,US,3/23/2020 00:00,110,,,,,
-,Hamilton,Indiana,East North Central,Midwest,US,3/23/2020 00:00,21,,,,,
-,,Michigan,East North Central,Midwest,US,3/23/2020 00:00,1328,15,,,,
-,Detroit City,Michigan,East North Central,Midwest,US,3/23/2020 00:00,411,6,,,,
-Troy,Oakland,Michigan,East North Central,Midwest,US,3/23/2020 00:00,329,,,,,
-,Wayne,Michigan,East North Central,Midwest,US,3/23/2020 00:00,227,,,,,
-,Macomb,Michigan,East North Central,Midwest,US,3/23/2020 00:00,175,,,,,
-,,Ohio,East North Central,Midwest,US,3/23/2020 00:00,442,6,,,,
-Cleveland,Cuyahoga,Ohio,East North Central,Midwest,US,3/23/2020 00:00,149,,,,,
-Columbus,Franklin,Ohio,East North Central,Midwest,US,3/23/2020 00:00,44,,,,,
-,,Wisconsin,East North Central,Midwest,US,3/23/2020 00:00,416,5,,7050,,
-,,Iowa,West North Central,Midwest,US,3/23/2020 00:00,105,,,,,
-,,Kansas,West North Central,Midwest,US,3/23/2020 00:00,82,2,,,,
-,,Minnesota,West North Central,Midwest,US,3/23/2020 00:00,235,1,,,,
-Minneapolis,Hennepin,Minnesota,West North Central,Midwest,US,3/23/2020 00:00,89,,,,,
-,,Missouri,West North Central,Midwest,US,3/23/2020 00:00,183,3,,,,
-Omaha,,Nebraska,West North Central,Midwest,US,3/23/2020 00:00,52,,,975,,
-Fargo,,North Dakota,West North Central,Midwest,US,3/23/2020 00:00,32,,1440,1408,,
-Sioux Falls,,South Dakota,West North Central,Midwest,US,3/23/2020 00:00,28,1,,,,
-,,Connecticut,New England,Northeast,US,3/23/2020 00:00,415,10,,,,
-,,Maine,New England,Northeast,US,3/23/2020 00:00,107,,,2791,,
-,,Massachusetts,New England,Northeast,US,3/23/2020 00:00,525,1,,,,
-,,New Hampshire,New England,Northeast,US,3/23/2020 00:00,101,1,2417,,,
-Providence,,Rhode Island,New England,Northeast,US,3/23/2020 00:00,106,,,1120,,
-Burlington,,Vermont,New England,Northeast,US,3/23/2020 00:00,75,5,1173,,,
-,,New Jersey,Mid-Atlantic,Northeast,US,3/23/2020 00:00,2844,27,,,40.69249722,-74.16866056
-,,New York,Mid-Atlantic,Northeast,US,3/23/2020 00:00,20875,,,,40.63975111,-73.77892556
-,New York City,New York,Mid-Atlantic,Northeast,US,3/23/2020 00:00,12305,99,,,,
-,,Pennsylvania,Mid-Atlantic,Northeast,US,3/23/2020 00:00,644,6,,6595,,
-,,Delaware,South Atlantic,South,US,3/23/2020 00:00,87,,,,,
-,,Florida,South Atlantic,South,US,3/23/2020 00:00,1147,17,,,,
-,,Georgia,South Atlantic,South,US,3/23/2020 00:00,800,26,5069,,,
-Baltimore,,Maryland,South Atlantic,South,US,3/23/2020 00:00,288,3,,,,
-,,North Carolina,South Atlantic,South,US,3/23/2020 00:00,297,,8438,,,
-Charleston,,South Carolina,South Atlantic,South,US,3/23/2020 00:00,298,5,,,,
-,,Virginia,South Atlantic,South,US,3/23/2020 00:00,254,6,3697,,,
-,,District of Columbia,South Atlantic,South,US,3/23/2020 00:00,137,2,1334,1195,,
-Charleston,,West Virginia,South Atlantic,South,US,3/23/2020 00:00,20,,,610,,
-,,Alabama,East South Central,South,US,3/23/2020 00:00,196,,1832,,,
-Louisville,,Kentucky,East South Central,South,US,3/23/2020 00:00,124,,1866,,,
-Jackson,,Mississippi,East South Central,South,US,3/23/2020 00:00,249,1,,,,
-,,Tennessee,East South Central,South,US,3/23/2020 00:00,615,2,,,,
-Little Rock,,Arkansas,West South Central,South,US,3/23/2020 00:00,197,,,,,
-,,Louisiana,West South Central,South,US,3/23/2020 00:00,1172,34,5948,,,
-Oklahoma City,Oklahoma,Oklahoma,West South Central,South,US,3/23/2020 00:00,83,2,,694,,
-,,Texas,West South Central,South,US,3/23/2020 00:00,352,8,10055,,29.98047222,-95.33972222
-Los Angeles,,California,Pacific,West,US,3/23/2020 00:00,1733,27,26400,,33.94253611,-118.4080744
-,,Washington,Pacific,West,US,3/23/2020 00:00,2221,110,,31712,47.44898194,-122.3093131
-,,Oregon,Pacific,West,US,3/23/2020 00:00,191,,3840,3649,,
-Anchorage,,Alaska,Pacific,West,US,3/23/2020 00:00,36,,,,,
-,,Hawaii,Pacific,West,US,3/23/2020 00:00,77,,,,,
-,,Colorado,Mountain,West,US,3/23/2020 00:00,720,7,6224,,,
-,,Arizona,Mountain,West,US,3/23/2020 00:00,234,2,352,,,
-Cheyenne,,Wyoming,Mountain,West,US,3/23/2020 00:00,28,,680,,,
-Las Vegas,,Nevada,Mountain,West,US,3/23/2020 00:00,245,4,4033,,,
-Boise,,Idaho,Mountain,West,US,3/23/2020 00:00,50,,1537,,,
-Billings,,Montana,Mountain,West,US,3/23/2020 00:00,45,,,,,
-,,New Mexico,Mountain,West,US,3/23/2020 00:00,83,,5973,5890,,
-,,Utah,Mountain,West,US,3/23/2020 00:00,257,1,5048,,,
-,Summit,Utah,Mountain,West,US,3/23/2020 00:00,,,,,,
+State,Last Update,Confirmed,Deaths,Total Persons Tested,Negative,Division,Region,Country
+USA,3/21/20 0:00,24002,326,,,,,US
+Illinois,3/21/20 0:00,753,6,6247,,East North Central,Midwest,US
+Indiana,3/21/20 0:00,126,4,833,,East North Central,Midwest,US
+Michigan,3/21/20 0:00,787,5,,,East North Central,Midwest,US
+Ohio,3/21/20 0:00,247,3,,,East North Central,Midwest,US
+Wisconsin,3/21/20 0:00,281,4,,4628,East North Central,Midwest,US
+Iowa,3/21/20 0:00,68,,,,West North Central,Midwest,US
+Kansas,3/21/20 0:00,55,2,,,West North Central,Midwest,US
+Minnesota,3/21/20 0:00,137,1,,,West North Central,Midwest,US
+Missouri,3/21/20 0:00,73,3,,,West North Central,Midwest,US
+Nebraska,3/21/20 0:00,38,,,356,West North Central,Midwest,US
+North Dakota,3/21/20 0:00,28,,1182,1154,West North Central,Midwest,US
+South Dakota,3/21/20 0:00,14,1,,691,West North Central,Midwest,US
+Connecticut,3/21/20 0:00,223,5,3100,,New England,Northeast,US
+Maine,3/21/20 0:00,70,,2264,,New England,Northeast,US
+Massachusetts,3/21/20 0:00,525,1,3031,,New England,Northeast,US
+New Hampshire,3/21/20 0:00,65,,2212,,New England,Northeast,US
+Rhode Island,3/21/20 0:00,66,,,862,New England,Northeast,US
+Vermont,3/21/20 0:00,49,2,978,,New England,Northeast,US
+New Jersey,3/21/20 0:00,1327,16,,,Mid-Atlantic,Northeast,US
+New York,3/21/20 0:00,10356,76,,,Mid-Atlantic,Northeast,US
+Pennsylvania,3/21/20 0:00,371,2,,3766,Mid-Atlantic,Northeast,US
+Delaware,3/21/20 0:00,45,,,,South Atlantic,South,US
+Florida,3/21/20 0:00,763,12,,,South Atlantic,South,US
+Georgia,3/21/20 0:00,555,20,,,South Atlantic,South,US
+Maryland,3/21/20 0:00,190,2,,,South Atlantic,South,US
+North Carolina,3/21/20 0:00,184,,5276,,South Atlantic,South,US
+South Carolina,3/21/20 0:00,173,3,,1466,South Atlantic,South,US
+Virginia,3/21/20 0:00,152,2,2790,,South Atlantic,South,US
+District of Columbia,3/21/20 0:00,98,,1055,,South Atlantic,South,US
+West Virginia,3/21/20 0:00,12,,,385,South Atlantic,South,US
+Alabama,3/21/20 0:00,131,,,,East South Central,South,US
+Kentucky,3/21/20 0:00,54,,768,,East South Central,South,US
+Mississippi,3/21/20 0:00,140,1,,,East South Central,South,US
+Tennessee,3/21/20 0:00,371,,694,,East South Central,South,US
+Arkansas,3/21/20 0:00,118,,,567,West South Central,South,US
+Louisiana,3/21/20 0:00,763,20,3302,,West South Central,South,US
+Oklahoma,3/21/20 0:00,55,1,,560,West South Central,South,US
+Texas,3/21/20 0:00,304,5,6522,,West South Central,South,US
+Arizona,3/21/20 0:00,104,1,,,Mountain,West,US
+Colorado,3/21/20 0:00,475,5,4550,,Mountain,West,US
+Idaho,3/21/20 0:00,42,,1217,,Mountain,West,US
+Montana,3/21/20 0:00,27,,,,Mountain,West,US
+Nevada,3/21/20 0:00,154,2,2602,2448,Mountain,West,US
+New Mexico,3/21/20 0:00,57,,4779,,Mountain,West,US
+Utah,3/21/20 0:00,136,,2560,,Mountain,West,US
+Wyoming,3/21/20 0:00,24,,,,Mountain,West,US
+Alaska,3/21/20 0:00,14,,,,Pacific,West,US
+California,3/21/20 0:00,1224,23,,,Pacific,West,US
+Hawaii,3/21/20 0:00,48,,,,Pacific,West,US
+Oregon,3/21/20 0:00,137,4,2912,2338,Pacific,West,US
+Washington,3/21/20 0:00,1793,94,,25328,Pacific,West,US
+USA,3/22/20 0:00,32451,398,,,,,US
+Illinois,3/22/20 0:00,1049,9,8374,,East North Central,Midwest,US
+Indiana,3/22/20 0:00,201,6,1494,,East North Central,Midwest,US
+Michigan,3/22/20 0:00,1035,8,,,East North Central,Midwest,US
+Ohio,3/22/20 0:00,351,3,,,East North Central,Midwest,US
+Wisconsin,3/22/20 0:00,381,4,6230,,East North Central,Midwest,US
+Iowa,3/22/20 0:00,90,,,,West North Central,Midwest,US
+Kansas,3/22/20 0:00,64,2,,,West North Central,Midwest,US
+Minnesota,3/22/20 0:00,169,1,,,West North Central,Midwest,US
+Missouri,3/22/20 0:00,90,3,,,West North Central,Midwest,US
+Nebraska,3/22/20 0:00,42,,,356,West North Central,Midwest,US
+North Dakota,3/22/20 0:00,30,,1355,1325,West North Central,Midwest,US
+South Dakota,3/22/20 0:00,21,1,,740,West North Central,Midwest,US
+Connecticut,3/22/20 0:00,327,8,,,New England,Northeast,US
+Maine,3/22/20 0:00,89,,,2264,New England,Northeast,US
+Massachusetts,3/22/20 0:00,646,5,,,New England,Northeast,US
+New Hampshire,3/22/20 0:00,78,,2341,,New England,Northeast,US
+Rhode Island,3/22/20 0:00,83,,,932,New England,Northeast,US
+Vermont,3/22/20 0:00,52,2,1158,,New England,Northeast,US
+New Jersey,3/22/20 0:00,1914,20,,,Mid-Atlantic,Northeast,US
+New York,3/22/20 0:00,15168,117,,,Mid-Atlantic,Northeast,US
+Pennsylvania,3/22/20 0:00,479,2,,4964,Mid-Atlantic,Northeast,US
+Delaware,3/22/20 0:00,56,,,,South Atlantic,South,US
+Florida,3/22/20 0:00,1007,13,,,South Atlantic,South,US
+Georgia,3/22/20 0:00,620,25,,4020,South Atlantic,South,US
+Maryland,3/22/20 0:00,244,,,,South Atlantic,South,US
+North Carolina,3/22/20 0:00,255,,6438,,South Atlantic,South,US
+South Carolina,3/22/20 0:00,195,3,,,South Atlantic,South,US
+Virginia,3/22/20 0:00,219,3,3337,,South Atlantic,South,US
+District of Columbia,3/22/20 0:00,116,2,1229,1113,South Atlantic,South,US
+West Virginia,3/22/20 0:00,16,,,444,South Atlantic,South,US
+Alabama,3/22/20 0:00,157,,1602,,East South Central,South,US
+Kentucky,3/22/20 0:00,99,,1571,,East South Central,South,US
+Mississippi,3/22/20 0:00,207,1,,,East South Central,South,US
+Tennessee,3/22/20 0:00,505,,,,East South Central,South,US
+Arkansas,3/22/20 0:00,165,,,,West South Central,South,US
+Louisiana,3/22/20 0:00,837,20,3498,,West South Central,South,US
+Oklahoma,3/22/20 0:00,69,2,,669,West South Central,South,US
+Texas,3/22/20 0:00,334,5,8756,,West South Central,South,US
+Arizona,3/22/20 0:00,152,2,408,,Mountain,West,US
+Colorado,3/22/20 0:00,591,6,5436,,Mountain,West,US
+Idaho,3/22/20 0:00,47,,,,Mountain,West,US
+Montana,3/22/20 0:00,34,,,,Mountain,West,US
+Nevada,3/22/20 0:00,190,2,2909,,Mountain,West,US
+New Mexico,3/22/20 0:00,65,,5386,,Mountain,West,US
+Utah,3/22/20 0:00,181,1,3689,,Mountain,West,US
+Wyoming,3/22/20 0:00,26,,484,,Mountain,West,US
+Alaska,3/22/20 0:00,22,,,,Pacific,West,US
+California,3/22/20 0:00,1468,27,,,Pacific,West,US
+Hawaii,3/22/20 0:00,58,,,,Pacific,West,US
+Oregon,3/22/20 0:00,161,,3025,2864,Pacific,West,US
+Washington,3/22/20 0:00,1996,95,,,Pacific,West,US
+USA,3/23/20 0:00,42292,,,,,,US
+Illinois,3/23/20 0:00,1285,12,9868,,East North Central,Midwest,US
+Indiana,3/23/20 0:00,259,7,1960,,East North Central,Midwest,US
+Michigan,3/23/20 0:00,1328,15,,,East North Central,Midwest,US
+Ohio,3/23/20 0:00,442,6,,,East North Central,Midwest,US
+Wisconsin,3/23/20 0:00,416,5,,7050,East North Central,Midwest,US
+Iowa,3/23/20 0:00,105,,,,West North Central,Midwest,US
+Kansas,3/23/20 0:00,82,2,,,West North Central,Midwest,US
+Minnesota,3/23/20 0:00,235,1,,,West North Central,Midwest,US
+Missouri,3/23/20 0:00,183,3,,,West North Central,Midwest,US
+Nebraska,3/23/20 0:00,52,,,975,West North Central,Midwest,US
+North Dakota,3/23/20 0:00,32,,1440,1408,West North Central,Midwest,US
+South Dakota,3/23/20 0:00,28,1,,,West North Central,Midwest,US
+Connecticut,3/23/20 0:00,415,10,,,New England,Northeast,US
+Maine,3/23/20 0:00,107,,,2791,New England,Northeast,US
+Massachusetts,3/23/20 0:00,525,1,,,New England,Northeast,US
+New Hampshire,3/23/20 0:00,101,1,2417,,New England,Northeast,US
+Rhode Island,3/23/20 0:00,106,,,1120,New England,Northeast,US
+Vermont,3/23/20 0:00,75,5,1173,,New England,Northeast,US
+New Jersey,3/23/20 0:00,2844,27,,,Mid-Atlantic,Northeast,US
+New York,3/23/20 0:00,20875,,,,Mid-Atlantic,Northeast,US
+Pennsylvania,3/23/20 0:00,644,6,,6595,Mid-Atlantic,Northeast,US
+Delaware,3/23/20 0:00,87,,,,South Atlantic,South,US
+Florida,3/23/20 0:00,1147,17,,,South Atlantic,South,US
+Georgia,3/23/20 0:00,800,26,5069,,South Atlantic,South,US
+Maryland,3/23/20 0:00,288,3,,,South Atlantic,South,US
+North Carolina,3/23/20 0:00,297,,8438,,South Atlantic,South,US
+South Carolina,3/23/20 0:00,298,5,,,South Atlantic,South,US
+Virginia,3/23/20 0:00,254,6,3697,,South Atlantic,South,US
+District of Columbia,3/23/20 0:00,137,2,1334,1195,South Atlantic,South,US
+West Virginia,3/23/20 0:00,20,,,610,South Atlantic,South,US
+Alabama,3/23/20 0:00,196,,1832,,East South Central,South,US
+Kentucky,3/23/20 0:00,124,,1866,,East South Central,South,US
+Mississippi,3/23/20 0:00,249,1,,,East South Central,South,US
+Tennessee,3/23/20 0:00,615,2,,,East South Central,South,US
+Arkansas,3/23/20 0:00,197,,,,West South Central,South,US
+Louisiana,3/23/20 0:00,1172,34,5948,,West South Central,South,US
+Texas,3/23/20 0:00,352,8,10055,,West South Central,South,US
+California,3/23/20 0:00,1733,27,26400,,Pacific,West,US
+Washington,3/23/20 0:00,2221,110,,31712,Pacific,West,US
+Oregon,3/23/20 0:00,191,,3840,3649,Pacific,West,US
+Alaska,3/23/20 0:00,36,,,,Pacific,West,US
+Hawaii,3/23/20 0:00,77,,,,Pacific,West,US
+Colorado,3/23/20 0:00,720,7,6224,,Mountain,West,US
+Arizona,3/23/20 0:00,234,2,352,,Mountain,West,US
+Wyoming,3/23/20 0:00,28,,680,,Mountain,West,US
+Nevada,3/23/20 0:00,245,4,4033,,Mountain,West,US
+Idaho,3/23/20 0:00,50,,1537,,Mountain,West,US
+Montana,3/23/20 0:00,45,,,,Mountain,West,US
+New Mexico,3/23/20 0:00,83,,5973,5890,Mountain,West,US
+Utah,3/23/20 0:00,257,1,5048,,Mountain,West,US

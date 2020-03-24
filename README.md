@@ -1,17 +1,15 @@
-This raw data tracks US areas reporting 20+ coronavirus cases or 1+ deaths.
+This raw data tracks coronavirus in US states.
 
 ### Field description
-* Largest City: So it is easier to search for cities such as Chicago.
-* County: US - County name (e.g. "Cook" county in Illinois, "Orleans" parish in Louisiana, "Anchorage" Economic Region in Alaska)
-* State: China - province name; US/Canada/Australia/ - city name, state/province name; Others - name of the event (e.g., "Diamond Princess" cruise ship); other countries - blank.
-* Division: The United States Census Bureau defines four statistical regions, with nine divisions (e.g. New England) See: https://en.wikipedia.org/wiki/List_of_regions_of_the_United_States#Census_Bureau-designated_regions_and_divisions
-* Region: The United States Census Bureau defines four statistical regions (Northeast, Midwest, South, West).
-* Country: country/region name conforming to WHO.
+* State: US state name
 * Last Update: MM/DD/YYYY HH:mm  (24 hour format, in UTC).
 * Confirmed: the number of confirmed cases.
 * Deaths: the number of deaths.
 * Total Persons Tested: Total # of persons reported for testing.
 * Negative: Total # of persons who tested negative.
+* Division: The United States Census Bureau defines four statistical regions, with nine divisions (e.g. New England) See: https://en.wikipedia.org/wiki/List_of_regions_of_the_United_States#Census_Bureau-designated_regions_and_divisions
+* Region: The United States Census Bureau defines four statistical regions (Northeast, Midwest, South, West).
+* Country: country/region name conforming to WHO.
 
 ### Update frequency
 * Once a day.
@@ -72,6 +70,3 @@ This raw data tracks US areas reporting 20+ coronavirus cases or 1+ deaths.
 
 ### More data
 * Johns Hopkins University Applied Physics Lab (JHU APL) https://github.com/CSSEGISandData/COVID-19
-* US CDC: https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/cases-in-us.html
-* https://en.wikipedia.org/wiki/List_of_airports_in_the_United_States
-* https://raw.githubusercontent.com/plotly/datasets/master/2011_february_us_airport_traffic.csv
