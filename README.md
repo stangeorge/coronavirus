@@ -1,3 +1,5 @@
+INACTIVE: This project is inactive as New York Times made similar data available: https://github.com/nytimes/covid-19-data
+
 This raw data tracks coronavirus in US states.
 
 ### Field description
